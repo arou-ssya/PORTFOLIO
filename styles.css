@@ -1,0 +1,98 @@
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #b9a5d4;
+}
+
+header h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+header p {
+    font-size: 18px;
+    color: #474545;
+}
+
+
+#aboutportfolio {
+    text-align: center;
+    padding: 50px;
+    background-color: #fff;
+}
+
+#aboutportfolio img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+#aboutportfolio p {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+#myskills {
+    text-align: center;
+    padding: 50px;
+    background-color: #b9a5d4;
+}
+
+#myskills ul {
+    list-style: none;
+    padding: 0;
+}
+
+#myskills ul li {
+    display: inline-block;
+    margin: 10px 20px;
+    font-size: 18px;
+    color: #333;
+}
+
+#meprojects {
+    padding: 50px;
+    background-color: #fff;
+}
+
+#meprojects .meproject {
+    margin-bottom: 30px;
+}
+
+#meprojects .meproject img {
+    width: 20%;
+    height: auto;
+    border-radius: 8px;
+}
+
+#meresume {
+    text-align: center;
+    padding: 50px;
+    background-color: #b9a5d4;
+}
+
+#meresume a {
+    font-size: 18px;
+    color: #1465b7;
+    text-decoration: none;
+}
+
+#contactmee {
+    text-align: center;
+    padding: 50px;
+    background-color: #fff;
+}
+
+#contactmee a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #6b6868;
+    color: #fff;
+}
